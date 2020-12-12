@@ -1,0 +1,11 @@
+#python
+__pycache__/
+*.py[cod]
+
+#nodejs
+**/node_modules
+
+#project specific
+config.json
+events.json
+.vscode
